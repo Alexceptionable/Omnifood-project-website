@@ -188,9 +188,7 @@ header {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
   border-radius: 50%;
-
   z-index: -2;
 }
 
@@ -202,14 +200,11 @@ header {
   padding-bottom: 45%;
   /* this is how to solve this bag */
   background-color: #fae5d3;
-
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
   border-radius: 50%;
-
   z-index: -1;
 }
 
